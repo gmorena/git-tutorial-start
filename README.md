@@ -1,5 +1,5 @@
 # Git Tutorial
-Example to learn the basics of git.
+This is a fork of the original.
 The finished state is [tgressly/git-tutorial-finished](https://github.com/tgressly/git-tutorial-finished "GitHub - tgressly/git-tutorial-finished: Finished state of tgressly/git-tutorial-start")
 
 ## Purpose
